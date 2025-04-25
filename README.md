@@ -77,9 +77,6 @@ F1 Score was used as the evaluation metric, balancing precision and recall for d
 
 ---
 
-## Screenshots
-
-Add a screenshot of your Kaggle submission/leaderboard result here.
 
 ---
 
